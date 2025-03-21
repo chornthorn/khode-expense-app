@@ -144,7 +144,7 @@ class DashboardScreen extends StatelessWidget {
           );
         },
         backgroundColor: AppColors.cyclamen,
-        child: const Icon(Icons.add),
+        child: const Icon(Icons.add, color: Colors.white),
       ),
     );
   }

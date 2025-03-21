@@ -8,7 +8,6 @@ import 'ui/core/themes/app_theme.dart';
 void main() {
   // Ensure Flutter bindings are initialized
   WidgetsFlutterBinding.ensureInitialized();
-
   runApp(const KhodeExpenseApp());
 }
 
